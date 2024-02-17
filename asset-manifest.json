@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.fd73accb.js",
+    "static/js/592.3f5dad84.chunk.js": "/static/js/592.3f5dad84.chunk.js",
+    "static/media/BGCity2.jpg": "/static/media/BGCity2.caa5d3a4640ebd46605c.jpg",
+    "static/media/BGCity1.jpg": "/static/media/BGCity1.00862907c63d7dd754ea.jpg",
+    "static/media/BgCity5.jpg": "/static/media/BgCity5.8d61999632d9c8c99b2f.jpg",
+    "static/media/BGCity4.jpg": "/static/media/BGCity4.861d80e163d4220847ce.jpg",
+    "static/media/CasqueBuilding.jpg": "/static/media/CasqueBuilding.533212b4f88bbf3d5f32.jpg",
+    "static/media/Multitasking (1).gif": "/static/media/Multitasking (1).6daa2ee33f728048bc2b.gif",
+    "static/media/2206_w039_n003_272b_p1_272.jpg": "/static/media/2206_w039_n003_272b_p1_272.216ce6d7d08854960d41.jpg",
+    "static/media/BgPhone2.jpeg": "/static/media/BgPhone2.9bda00b9cf9a2ccacbb9.jpeg",
+    "static/media/Nunito-Italic-VariableFont_wght.ttf": "/static/media/Nunito-Italic-VariableFont_wght.749b59811ed46de3c015.ttf",
+    "static/media/apropos.jpg": "/static/media/apropos.dbc1095746644d4ede38.jpg",
+    "static/media/banniere.jpg": "/static/media/banniere.7f8e737e1b004dface1e.jpg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.fd73accb.js.map": "/static/js/main.fd73accb.js.map",
+    "592.3f5dad84.chunk.js.map": "/static/js/592.3f5dad84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fd73accb.js"
+  ]
+}
